@@ -1,2 +1,2 @@
-# COP3503_Project3
+# COP3530_Project3
 Repo for Project 3
