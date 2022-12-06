@@ -16,9 +16,9 @@ neo4j_ver = "5"
 database_name = "neo4j"
 
 # To Run
-```python3 movies_async.py```
+```python3 tradeViz.py```
 
 Open at port specified by UNVICORN
-Select items and search to generate graph. 
+Select items and search to generate graph/DFS/BSF search tables. 
 
 
